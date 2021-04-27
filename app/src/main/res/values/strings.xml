@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Demo Second App</string>
+    <string name="button1text" translatable="false">E62E C346</string>
+    <string name="Text1" translatable="false">Welcome to Android!</string>
+    <string name="Text2" translatable="false">Large Text</string>
+    <string name="button2text" translatable="false">Lunch break at 12:30pm</string>
+    <string name="greeting">Good Morning</string>
+    <string name="Login">Login</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Login_Name">Name:</string>
+    <string name="Login_Password">Password:</string>
 </resources>

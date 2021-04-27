@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo Second App</string>
+    <string name="greeting">おはよう</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="Login">"ログインする "</string>
+    <string name="Login_Name">名前</string>
+    <string name="Login_Password">"パスワード "</string>
+</resources>
